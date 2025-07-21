@@ -86,6 +86,9 @@ To develop a robust, scalable, and intelligent system that:
                                                 +--------------------------------------+
                                                 | Visualization of Test vs Matched Face|
                                                 +--------------------------------------+
+```
+
+---
 
 ## ✅ Results
 Distance Score: As low as 0.0085 (high similarity)
