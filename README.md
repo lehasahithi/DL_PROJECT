@@ -119,7 +119,7 @@ Demonstrated real-world readiness for deployment
 📚 Reference Dataset
 UTKFace Dataset — A large-scale facial dataset with age, gender, and ethnicity labels
 
-###👩‍💻 Authors
+### 👩‍💻 Authors
 Bandaru Jaya Nandini
 
 Mamidi Leha Sahithi
